@@ -11,3 +11,11 @@
       </div>
 
 </p>
+
+## About Me :
+
+- 💼 I am currently seeking a job as a **Junior Data Scientist**
+- 🎓 Studies for Data Science at [Uppsala University](https://www.uu.se/en) in Uppsala 🇸🇪
+- 🎓 Studies for Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) in  Paris 🇫🇷
+- 🏡'Lives in **Paris**
+- 🥋 I am a Brazilian jiu-jitsu practitioner
