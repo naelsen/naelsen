@@ -21,6 +21,15 @@
 - 🥋 I am a Brazilian jiu-jitsu practitioner
 - 🎯 2023 Goals : Contribute to Open Source projects for Deep Learning
 
+---
+
+### ⚒️ Tech Stack
+
+#### 👨‍💻 Programming Languages
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+
 ### ⚙️ GitHub Analytics
 
 <br/>
