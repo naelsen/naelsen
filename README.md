@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <h1 align="center">Hi, I'm Naël Sennoun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -47,6 +47,6 @@
 
 ### ⚙️ GitHub Analytics
 
-<a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naelsen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naelsen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=False&bg_color=0D1117" /></a> <a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=False&bg_color=0D1117" /></a>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
