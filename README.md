@@ -15,8 +15,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/nael-sennoun/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.tiktok.com/@iartnft/"><img src="https://img.shields.io/badge/tiktok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=white
-" alt="Tiktok"/></a>&nbsp;
+<a href="https://www.tiktok.com/@iartnft/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"/></a>&nbsp;
 <a href="mailto:nael.sennoun@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 ### About Me :
