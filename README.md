@@ -47,6 +47,10 @@
 
 ### ⚙️ GitHub Analytics
 
-<a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naelsen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=False&bg_color=0D1117" /></a> <a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=False&bg_color=0D1117" /></a>
+<div align="center">
+  <a href="https://github.com/naelsen/">
+  <img alt="naelsen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naelsen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=False&bg_color=0D1117"/>
+  <img alt="naelsen's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=False&bg_color=0D1117" />
+</div>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
