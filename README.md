@@ -7,7 +7,9 @@
 <a href="https://github.com/naelsen?tab=followers"><img src="https://img.shields.io/github/followers/naelsen?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-🎯 2023 Goals: Contribute to Open Source projects
+<p>
+  <h4 align="center"><b>"🎯 My 2023 Goals is to contribute to Open Source projects 🎯"</b></h4>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nael-sennoun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
