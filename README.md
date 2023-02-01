@@ -27,13 +27,10 @@
 
 #### 👨‍💻 Programming Languages
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="C++"/> 
 
 ### ⚙️ GitHub Analytics
 
-<br/>
-    <a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naelsen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naelsen&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/naelsen/github-readme-stats"><img alt="naelsen's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
