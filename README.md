@@ -12,7 +12,7 @@
 
 </p>
 
-## About Me :
+### About Me :
 
 - 💼 I am currently seeking a job as a **Junior Data Scientist**
 - 🎓 Studies for Data Science at [Uppsala University](https://www.uu.se/en) in Uppsala 🇸🇪
@@ -20,7 +20,7 @@
 - 🏡'Lives in **Paris**
 - 🥋 I am a Brazilian jiu-jitsu practitioner
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -28,3 +28,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naelsen&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### ❤ Views and Followers
+
+<a href="https://github.com/naelsen/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=naelsen">
+</a>
+<a href="https://github.com/naelsen?tab=followers"><img src="https://img.shields.io/github/followers/naelsen?label=Followers&style=social" alt="GitHub Badge"></a>
