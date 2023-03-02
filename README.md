@@ -46,11 +46,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 
 ### ⚙️ GitHub Analytics
-  
+
 <div align="left">
   <a href="https://github.com/naelsen">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naelsen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naelsen&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naelsen&theme=great-gatsby&count_private=true&hide=issues"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naelsen&layout=compact&theme=great-gatsby"/>
 </div>
 
 <b>Note:</b> Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
