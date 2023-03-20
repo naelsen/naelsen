@@ -13,7 +13,13 @@
 <a href="mailto:nael.sennoun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-### About Me :
+<h2>
+<p align="center">
+Check my last personnal project : <a href="https://github.com/naelsen/fr-resume-explainer">fr-resume-explainer
+</p>
+</h2>
+
+## About Me :
 
 - 💼 I am currently seeking a job as a **Junior Data Scientist**
 - 🎓 I studied Data Science at [Uppsala University](https://www.uu.se/en)
