@@ -15,7 +15,7 @@
 
 <h2>
 <p align="center">
-Check my last personnal project : <a href="https://github.com/naelsen/fr-resume-explainer">fr-resume-explainer
+Check out my latest personal project : <a href="https://github.com/naelsen/fr-resume-explainer">fr-resume-explainer
 </p>
 </h2>
 
