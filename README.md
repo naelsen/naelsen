@@ -21,7 +21,7 @@ Check out my latest personal project : <a href="https://github.com/naelsen/fr-re
 
 ## About Me :
 
-- 💼 I am currently seeking a job as a **Junior Data Scientist**
+- 💼 I am currently working as a **Data Scientist**
 - 🎓 I studied Data Science at [Uppsala University](https://www.uu.se/en)
 - 🎓 I studied Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/)
 - 🥋 I am a Brazilian jiu-jitsu practitioner
