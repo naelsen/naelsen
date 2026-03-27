@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Senior+AI+Engineer;From+Model+to+Production" alt="Typing SVG" /></a>
 
-<p>I build production AI systems end-to-end — from model training to Kubernetes-native inference.</p>
+<p>I build production AI systems end-to-end, from model training to Kubernetes-native inference.</p>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 Senior AI Engineer based in Paris, with a background in Applied Mathematics (Polytech Sorbonne) and Data Science (Uppsala University, top of class).
 
-I specialize in AI systems that go beyond the notebook — NLP pipelines, LLM serving with vLLM, RAG architectures with vector databases, all deployed on self-managed Kubernetes clusters with full GitOps automation.
+I specialize in AI systems that go beyond the notebook : NLP pipelines, LLM serving with vLLM, RAG architectures with vector databases, all deployed on self-managed Kubernetes clusters with full GitOps automation.
 
 > *The best model is worthless if it can't run in production.*
 
@@ -25,10 +25,10 @@ I specialize in AI systems that go beyond the notebook — NLP pipelines, LLM se
 
 ## What I'm Building
 
-**onepushstack** — Production-grade Kubernetes platform for AI workloads
+**onepushstack** | Production-grade Kubernetes platform for AI workloads
 `K8s` `ArgoCD` `Helm` `OpenTofu` `CNPG` `OpenBao` `cert-manager` `Kyverno` `Cilium` `GitOps`
 
-**[fr-resume-explainer](https://github.com/naelsen/fr-resume-explainer)** — NLP-powered French resume bias detection
+**[fr-resume-explainer](https://github.com/naelsen/fr-resume-explainer)** | NLP-powered French resume bias detection
 `BERT` `Adapter Fine-tuning` `SHAP` `Hugging Face` `Explainable AI`
 
 ---
@@ -64,13 +64,5 @@ I specialize in AI systems that go beyond the notebook — NLP pipelines, LLM se
 
 ## Education
 
-**Uppsala University** — M.Sc. Data Science *(Top of class — AI & Data Mining)*
-**Polytech Sorbonne** — M.Eng. Applied Mathematics & Computer Science
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naelsen&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="160"/>
-
-</div>
+**Uppsala University** | M.Sc. Data Science *(Top of class, AI & Data Mining)*<br/>
+**Polytech Sorbonne** | M.Eng. Applied Mathematics & Computer Science
