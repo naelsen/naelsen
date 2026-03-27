@@ -1,62 +1,76 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<div align="center">
 
-<h1 align="center">Hi, I'm Naël Sennoun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Senior+AI+Engineer;From+Model+to+Production" alt="Typing SVG" /></a>
 
-<p align="center">
-<a href="https://github.com/naelsen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=naelsen"></a>
-<a href="https://github.com/naelsen?tab=followers"><img src="https://img.shields.io/github/followers/naelsen?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+<p>I build production AI systems end-to-end — from model training to Kubernetes-native inference.</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nael-sennoun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://www.tiktok.com/@iartnft/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"/></a>&nbsp;
-<a href="mailto:nael.sennoun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+<br/>
 
-<h2>
-<p align="center">
-Check out my latest personal project : <a href="https://github.com/naelsen/fr-resume-explainer">fr-resume-explainer
-</p>
-</h2>
+<a href="https://www.linkedin.com/in/nael-sennoun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:nael.sennoun@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## About Me :
+</div>
 
-- 💼 I am currently working as a **Data Scientist**
-- 🎓 I studied Data Science at [Uppsala University](https://www.uu.se/en)
-- 🎓 I studied Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/)
-- 🥋 I am a Brazilian jiu-jitsu practitioner
-- 🎯 2023 Goals : Contribute to Open Source projects for Deep Learning
+<br/>
+
+## About
+
+Senior AI Engineer based in Paris, with a background in Applied Mathematics (Polytech Sorbonne) and Data Science (Uppsala University, top of class).
+
+I specialize in AI systems that go beyond the notebook — NLP pipelines, LLM serving with vLLM, RAG architectures with vector databases, all deployed on self-managed Kubernetes clusters with full GitOps automation.
+
+> *The best model is worthless if it can't run in production.*
 
 ---
 
-### ⚒️ Tech Stack
+## What I'm Building
 
-#### 👨‍💻 Programming Languages
+**onepushstack** — Production-grade Kubernetes platform for AI workloads
+`K8s` `ArgoCD` `Helm` `OpenTofu` `CNPG` `OpenBao` `cert-manager` `Kyverno` `Cilium` `GitOps`
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex"/> 
+**[fr-resume-explainer](https://github.com/naelsen/fr-resume-explainer)** — NLP-powered French resume bias detection
+`BERT` `Adapter Fine-tuning` `SHAP` `Hugging Face` `Explainable AI`
 
-#### 🤖 Data Science
+---
 
-<img src="https://img.shields.io/badge/spaCy-449BF2?style=for-the-badge&logo=spaCy&logoColor=white" alt="spaCy"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+## Tech Stack
 
-#### ☁️ Cloud
+**AI & Machine Learning**
 
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="SciPy"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-4B0082?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-006400?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B0000?style=flat-square)
 
-#### ⚒️ Tools
+**Infrastructure & Platform**
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/> <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPi"/> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="Overleaf"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Github"/>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
+![GitOps](https://img.shields.io/badge/GitOps-FC6D26?style=flat-square&logo=git&logoColor=white)
 
-#### 💻 OS
+**Data & Cloud**
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6550?style=flat-square)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### ⚙️ GitHub Analytics
+---
 
-<div align="left">
-  <a href="https://github.com/naelsen">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naelsen&theme=great-gatsby&count_private=true&hide=issues"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naelsen&layout=compact&theme=great-gatsby"/>
+## Education
+
+**Uppsala University** — M.Sc. Data Science *(Top of class — AI & Data Mining)*
+**Polytech Sorbonne** — M.Eng. Applied Mathematics & Computer Science
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naelsen&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="160"/>
+
 </div>
-
-<b>Note:</b> Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
