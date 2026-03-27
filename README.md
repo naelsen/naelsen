@@ -19,17 +19,11 @@ Senior AI Engineer based in Paris, with a background in Applied Mathematics (Pol
 
 I specialize in AI systems that go beyond the notebook : NLP pipelines, LLM serving with vLLM, RAG architectures with vector databases, all deployed on self-managed Kubernetes clusters with full GitOps automation.
 
-> *The best model is worthless if it can't run in production.*
-
 ---
 
 ## What I'm Building
 
-**onepushstack** | Production-grade Kubernetes platform for AI workloads
-`K8s` `ArgoCD` `Helm` `OpenTofu` `CNPG` `OpenBao` `cert-manager` `Kyverno` `Cilium` `GitOps`
-
-**[fr-resume-explainer](https://github.com/naelsen/fr-resume-explainer)** | NLP-powered French resume bias detection
-`BERT` `Adapter Fine-tuning` `SHAP` `Hugging Face` `Explainable AI`
+**onepushstack** | A PaaS platform that reduces the friction between idea and production. One push, your stack is up.
 
 ---
 
