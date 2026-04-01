@@ -35,7 +35,7 @@ I specialize in AI systems that go beyond the notebook : NLP pipelines, LLM serv
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,postgres,gcp,linux,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,postgres,aws,linux,git&theme=dark&perline=8" />
 
 </div>
 
