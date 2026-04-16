@@ -17,15 +17,19 @@ I build production AI systems end-to-end, from model training to Kubernetes-nati
 
 ## About
 
-Senior AI Engineer based in Paris, with a background in Applied Mathematics (Polytech Sorbonne) and Data Science (Uppsala University).
+Senior AI Engineer based in Paris, with a mathematical background.
 
-I specialize in AI systems that go beyond the notebook: NLP pipelines, LLM serving with vLLM, RAG architectures with vector databases, deployed on self-managed Kubernetes clusters with full GitOps automation.
+I build AI systems and the infrastructure that runs them.
 
 <br/>
 
 ## Projects
 
-**onepushstack** · Self-hosted Kubernetes PaaS, fully automated with GitOps. One push, your stack is up. Identity, networking, secrets, databases, certificates, all production-ready.
+**OnePushStack** · Production infrastructure as a subscription.
+
+Developers push code, they get a live URL. Everything runs encrypted and isolated on dedicated bare metal. No shared cloud, no vendor lock-in.
+
+No CI/CD pipeline, no infrastructure to manage. One subscription replaces a platform team and an unpredictable cloud bill. Three plans from €80 to €1,200/mo.
 
 <br/>
 
@@ -35,11 +39,11 @@ I specialize in AI systems that go beyond the notebook: NLP pipelines, LLM servi
 
 **AI & Data**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch&theme=dark" />
 
 **Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,linux,git&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,helm,terraform,aws,postgres,linux,git&theme=dark" />
 
 </div>
 
