@@ -27,7 +27,7 @@ I specialize in AI systems that go beyond the notebook: NLP pipelines, LLM servi
 
 **onepushstack** · Production-grade PaaS on bare metal. One push, your stack is up.
 
-Full CNCF stack: K3s, ArgoCD, Cilium, CloudNativePG (PostgreSQL 17), OpenBao, Authentik, Kyverno, Traefik, cert-manager. Infrastructure as Code with OpenTofu and Helm.
+Self-hosted Kubernetes platform, fully automated with GitOps. Identity, networking, secrets, databases, certificates. Production-ready from day one.
 
 <br/>
 
