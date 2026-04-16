@@ -4,7 +4,7 @@
 
 **Senior AI Engineer** · From Model to Production
 
-I build production AI systems end-to-end, from model training to Kubernetes-native inference.
+I build production AI systems end-to-end, from LLM training to Kubernetes-native inference.
 
 <br/>
 
@@ -17,7 +17,7 @@ I build production AI systems end-to-end, from model training to Kubernetes-nati
 
 ## About
 
-Senior AI Engineer based in Paris, with a mathematical background.
+Senior AI Engineer based in Paris, with a background in applied mathematics.
 
 I build AI systems and the infrastructure that runs them.
 
@@ -25,11 +25,7 @@ I build AI systems and the infrastructure that runs them.
 
 ## Projects
 
-**OnePushStack** · Production infrastructure as a subscription.
-
-Developers push code, they get a live URL. Everything runs encrypted and isolated on dedicated bare metal. No shared cloud, no vendor lock-in.
-
-No CI/CD pipeline, no infrastructure to manage. One subscription replaces a platform team and an unpredictable cloud bill. Three plans from €80 to €1,200/mo.
+**OnePushStack** · Production infrastructure as a subscription. Developers push code, they get a live URL. Everything runs encrypted and isolated on dedicated bare metal. No shared cloud, no vendor lock-in. No CI/CD pipeline, no infrastructure to manage. One subscription replaces a platform team and an unpredictable cloud bill. Three plans from €80 to €1,200/mo.
 
 <br/>
 
@@ -39,11 +35,11 @@ No CI/CD pipeline, no infrastructure to manage. One subscription replaces a plat
 
 **AI & Data**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,sklearn,langchain,huggingface&theme=dark" />
 
 **Infrastructure**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,helm,terraform,aws,postgres,linux,git&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,helm,terraform,aws,postgres,fastapi,linux,git&theme=dark" />
 
 </div>
 
