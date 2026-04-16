@@ -25,9 +25,7 @@ I specialize in AI systems that go beyond the notebook: NLP pipelines, LLM servi
 
 ## Projects
 
-**onepushstack** · Production-grade PaaS on bare metal. One push, your stack is up.
-
-Self-hosted Kubernetes platform, fully automated with GitOps. Identity, networking, secrets, databases, certificates. Production-ready from day one.
+**onepushstack** · Self-hosted Kubernetes PaaS, fully automated with GitOps. One push, your stack is up. Identity, networking, secrets, databases, certificates, all production-ready.
 
 <br/>
 
